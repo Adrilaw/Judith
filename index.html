@@ -5,20 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>For Judith ❤️</title>
     <script>
-        window.onload = function() {
-            // Mobile detection using userAgent
-            const userAgent = navigator.userAgent.toLowerCase();
-            const isMobile = /android|iphone|ipad|ipod|windows phone/i.test(userAgent);
-            
-            console.log("User-Agent: " + userAgent);  // Debugging line
-            console.log("Is Mobile: " + isMobile);   // Debugging line
-
-            // If mobile device detected, redirect to mobile.html
-            if (isMobile) {
-                console.log("Redirecting to mobile.html...");  // Debugging line
-                window.location.href = "mobile.html";
-            }
-        };
+        if (/Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent)) {
+            window.location.href = "mobile.html";
+        }
     </script>
     <style>
         body {
