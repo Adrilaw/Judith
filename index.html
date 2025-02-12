@@ -5,30 +5,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>For Judith ❤️</title>
     <script>
-        // Function to check if the device is mobile
-        function isMobileDevice() {
-            return /Mobi|Android/i.test(navigator.userAgent);
-        }
+    // Function to check if the device is mobile
+    function isMobileDevice() {
+        return /Mobi|Android/i.test(navigator.userAgent);
+    }
 
-        // Function to handle redirection
-        function redirectToMobileIfNeeded() {
-            if (isMobileDevice()) {
-                var currentPage = window.location.pathname;
-                var mobilePage = '/Judith/mobile.html'; // Ensure correct path
-                console.log('Mobile device detected');
-                console.log('Current page:', currentPage);
-                console.log('Redirecting to:', mobilePage);
-                if (currentPage !== mobilePage) { // Avoid redirect loop
-                    window.location.href = mobilePage;
-                }
-            } else {
-                console.log('Not a mobile device');
+    // Function to handle redirection
+    function redirectToMobileIfNeeded() {
+        if (isMobileDevice()) {
+            var currentPage = window.location.pathname;
+            var mobilePage = '/Judith/mobile.html'; // Ensure correct path
+            if (currentPage !== mobilePage) { // Avoid redirect loop
+                window.location.href = mobilePage;
             }
         }
+    }
 
-        // Execute redirection function when the page loads
-        window.onload = redirectToMobileIfNeeded;
-    </script>
+    // Execute redirection function when the page loads
+    window.onload = redirectToMobileIfNeeded;
+</script>
     <style>
         body {
             background-color: #ffc0cb;
