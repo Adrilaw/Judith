@@ -5,10 +5,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>For Judith ❤️</title>
     <script>
-        // Check for mobile devices using a more comprehensive method
-        if (navigator.userAgent.match(/Mobi|Android|iPhone|iPad|iPod|webOS|BlackBerry|IEMobile|Opera Mini/i)) {
-            window.location.href = "mobile.html";
-        }
+        // Wait until the page is fully loaded
+        window.onload = function() {
+            // More robust mobile detection
+            const userAgent = navigator.userAgent.toLowerCase();
+            const isMobile = /android|webos|iphone|ipad|ipod|blackberry|iemobile|opera mini/i.test(userAgent);
+
+            // If it's a mobile device, redirect to mobile.html
+            if (isMobile) {
+                window.location.href = "mobile.html";
+            }
+        };
     </script>
     <style>
         body {
@@ -44,9 +51,8 @@
 </head>
 <body>
     <h1>For Judith ❤️</h1>
-    <p>Valentine’s Day is a day to express love, but for me, loving you isn’t just for one day—it’s something I want to do every day. I know that in the past, I failed to show you how much you truly mean to me, but today, I want to change that. You are special to me, and if you allow me, I will love and cherish you not just today, but forever.
+    <p>Valentine’s Day is a day to express love, but for me, loving you isn’t just for one day—it’s something I want to do every day. I know that in the past, I failed to show you how much you truly mean to me, but today, I want to change that. You are special to me, and if you allow me, I will love and cherish you not just today, but forever.</p>
     <h3 class="signature">From Adrien</h3>
-    </p>
 
     <script>
         function createHeart() {
