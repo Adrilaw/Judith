@@ -5,7 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>For Judith ❤️</title>
     <script>
-        if (/Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent)) {
+        // Check for mobile devices using a more comprehensive method
+        if (navigator.userAgent.match(/Mobi|Android|iPhone|iPad|iPod|webOS|BlackBerry|IEMobile|Opera Mini/i)) {
             window.location.href = "mobile.html";
         }
     </script>
