@@ -15,9 +15,14 @@
             if (isMobileDevice()) {
                 var currentPage = window.location.pathname;
                 var mobilePage = '/Judith/mobile.html'; // Ensure correct path
+                console.log('Mobile device detected');
+                console.log('Current page:', currentPage);
+                console.log('Redirecting to:', mobilePage);
                 if (currentPage !== mobilePage) { // Avoid redirect loop
                     window.location.href = mobilePage;
                 }
+            } else {
+                console.log('Not a mobile device');
             }
         }
 
