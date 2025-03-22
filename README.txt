@@ -1,23 +1,14 @@
-I loved Hope once.
-She held my heart, only to break it.
-Yet, I still believed—still chased the echo of what we were,
-blind to the truth that some things aren’t meant to be.
+𝐈 𝐥𝐨𝐯𝐞𝐝 𝐇𝐨𝐩𝐞 𝐨𝐧𝐜𝐞. 
+𝐒𝐡𝐞 𝐡𝐞𝐥𝐝 𝐦𝐲 𝐡𝐞𝐚𝐫𝐭, 𝐨𝐧𝐥𝐲 𝐭𝐨 𝐛𝐫𝐞𝐚𝐤 𝐢𝐭. 
+𝐘𝐞𝐭, 𝐈 𝐬𝐭𝐢𝐥𝐥 𝐛𝐞𝐥𝐢𝐞𝐯𝐞𝐝—𝐬𝐭𝐢𝐥𝐥 𝐜𝐡𝐚𝐬𝐞𝐝 𝐭𝐡𝐞 𝐞𝐜𝐡𝐨 𝐨𝐟 𝐰𝐡𝐚𝐭 𝐰𝐞 𝐰𝐞𝐫𝐞, 𝐛𝐥𝐢𝐧𝐝 𝐭𝐨 𝐭𝐡𝐞 𝐭𝐫𝐮𝐭𝐡 𝐭𝐡𝐚𝐭 𝐬𝐨𝐦𝐞 𝐭𝐡𝐢𝐧𝐠𝐬 𝐚𝐫𝐞𝐧’𝐭 𝐦𝐞𝐚𝐧𝐭 𝐭𝐨 𝐛𝐞.  
 
-Then came Judith—
-steady, kind, willing to love me
-while I was lost in the ruins of the past.
-She was real, but I was blind.
-Still hoping for Hope.
+𝐓𝐡𝐞𝐧 𝐜𝐚𝐦𝐞 𝐉𝐮𝐝𝐢𝐭𝐡— 𝐬𝐭𝐞𝐚𝐝𝐲, 𝐤𝐢𝐧𝐝, 𝐰𝐢𝐥𝐥𝐢𝐧𝐠 𝐭𝐨 𝐥𝐨𝐯𝐞 𝐦𝐞 𝐰𝐡𝐢𝐥𝐞 𝐈 𝐰𝐚𝐬 𝐥𝐨𝐬𝐭 𝐢𝐧 𝐭𝐡𝐞 𝐫𝐮𝐢𝐧𝐬 𝐨𝐟 𝐭𝐡𝐞 𝐩𝐚𝐬𝐭. 
+𝐒𝐡𝐞 𝐰𝐚𝐬 𝐫𝐞𝐚𝐥, 𝐛𝐮𝐭 𝐈 𝐰𝐚𝐬 𝐛𝐥𝐢𝐧𝐝. 
+𝐒𝐭𝐢𝐥𝐥 𝐡𝐨𝐩𝐢𝐧𝐠 𝐟𝐨𝐫 𝐇𝐨𝐩𝐞.  
+𝐇𝐨𝐩𝐞 𝐩𝐥𝐚𝐲𝐞𝐝 𝐰𝐢𝐭𝐡 𝐦𝐞 𝐚𝐠𝐚𝐢𝐧, 𝐚𝐧𝐝 𝐈 𝐥𝐞𝐭 𝐡𝐞𝐫. 
+𝐈𝐧 𝐝𝐨𝐢𝐧𝐠 𝐬𝐨, 𝐈 𝐥𝐞𝐭 𝐠𝐨 𝐨𝐟 𝐉𝐮𝐝𝐢𝐭𝐡. 
+𝐁𝐮𝐭 𝐰𝐡𝐞𝐧 𝐭𝐡𝐞 𝐢𝐥𝐥𝐮𝐬𝐢𝐨𝐧 𝐨𝐟 𝐇𝐨𝐩𝐞 𝐟𝐢𝐧𝐚𝐥𝐥𝐲 𝐟𝐚𝐝𝐞𝐝, 𝐚𝐧𝐝 𝐈 𝐭𝐮𝐫𝐧𝐞𝐝 𝐛𝐚𝐜𝐤 𝐭𝐨 𝐰𝐡𝐞𝐫𝐞 𝐥𝐨𝐯𝐞 𝐨𝐧𝐜𝐞 𝐬𝐭𝐨𝐨𝐝, 𝐉𝐮𝐝𝐢𝐭𝐡 𝐰𝐚𝐬 𝐬𝐭𝐢𝐥𝐥 𝐭𝐡𝐞𝐫𝐞— 𝐥𝐨𝐯𝐢𝐧𝐠 𝐦𝐞, 𝐛𝐮𝐭 𝐡𝐨𝐥𝐝𝐢𝐧𝐠 𝐬𝐨𝐦𝐞𝐨𝐧𝐞 𝐞𝐥𝐬𝐞’𝐬 𝐡𝐚𝐧𝐝.  
 
-Hope played with me again, and I let her.
-In doing so, I let go of Judith.
-But when the illusion of Hope finally faded,
-and I turned back to where love once stood,
-Judith was still there—
-loving me, but holding someone else’s hand.
-
-She had principles.
-And I had regret.
-
-Because sometimes, Hope isn’t what saves us—
-it’s what makes us lose what truly mattered all along.
+𝐒𝐡𝐞 𝐡𝐚𝐝 𝐩𝐫𝐢𝐧𝐜𝐢𝐩𝐥𝐞𝐬.
+𝐀𝐧𝐝 𝐈 𝐡𝐚𝐝 𝐫𝐞𝐠𝐫𝐞𝐭.  
+𝐁𝐞𝐜𝐚𝐮𝐬𝐞 𝐬𝐨𝐦𝐞𝐭𝐢𝐦𝐞𝐬, 𝐇𝐨𝐩𝐞 𝐢𝐬𝐧’𝐭 𝐰𝐡𝐚𝐭 𝐬𝐚𝐯𝐞𝐬 𝐮𝐬— 𝐢𝐭’𝐬 𝐰𝐡𝐚𝐭 𝐦𝐚𝐤𝐞𝐬 𝐮𝐬 𝐥𝐨𝐬𝐞 𝐰𝐡𝐚𝐭 𝐭𝐫𝐮𝐥𝐲 𝐦𝐚𝐭𝐭𝐞𝐫𝐞𝐝 𝐚𝐥𝐥 𝐚𝐥𝐨𝐧𝐠.
